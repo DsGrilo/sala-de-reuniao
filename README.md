@@ -1,2 +1,12 @@
 # sala-de-reuniao
-Gerenciador de Salas de Reunião 
+## Gerenciador de Salas de Reunião 
+
+## FINALIZADO
+
+DEPENDÊNCIAS UTILIZADAS:
+
+    GERENCIADOR MAVEN    
+    SPRING BOOT (WEB, DEV-TOOLS, STARTER, DATA)
+    H2 DATA BASE
+    LOMBOK
+    HIBERNATE & H. VALIDATOR
